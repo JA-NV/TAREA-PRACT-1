@@ -1,0 +1,6 @@
+public class Nombre {
+    public static void main (String[] args){
+        System.out.println("Nombre: Juan Alberto Naveo");
+        System.out.println("Correo: juanalb2007@gmail.com");
+    } 
+}
